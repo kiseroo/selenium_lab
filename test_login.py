@@ -38,7 +38,8 @@ def test_must_login():
         username_field.clear()
         username_field.send_keys("B222270077")
         password_field.clear()
-        password_field.send_keys("Temka3459")
+        password_field.send_keys("ttt")
+        # Public repository учраас password-ийг өөрөөр бичээд github-д оруулсан
         
         # Нэвтрэх товчийг дарах
         print("Нэвтэрэж байна...")

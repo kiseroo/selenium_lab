@@ -36,7 +36,7 @@ python test_login.py
 
 ##Нэвтрэх мэдээлэл
 	•	Username: B222270077
-	•	Password: ...
+	•	Password: ...(public repo bolhoor bicheegui)
 
 ##Assertion
 

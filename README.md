@@ -1,7 +1,7 @@
 # Selenium WebDriver Automation Test - Lab 1
 
 ## Тухай
-MUST-ийн студентийн портал дээр нэвтрэх үйлдлийг автоматжуулах Selenium WebDriver тест.
+MUST-ийн Student портал дээр нэвтрэх үйлдлийг автоматжуулах Selenium WebDriver тест.
 
 ## Шаардлага
 - Python 3.7+
@@ -28,7 +28,7 @@ python test_login.py
 ## Тестийн үйлдлүүд
 
 	1.	Chrome хөтөч ачааллах
-	2.	MUST студентийн портал руу очих
+	2.	MUST Student портал руу очих
 	3.	Нэвтрэх мэдээлэл оруулах
 	4.	Амжилттай нэвтэрсэн эсэхийг шалгах (assert ашиглан)
 	5.	Logout хийх

@@ -11,6 +11,10 @@ MUST сургуулийн оюутны портал дээр нэвтрэх бо
 - Popup/overlay цонх арилгах
 - Системээс гарах
 
+## Video
+
+https://github.com/user-attachments/assets/8f466b67-a823-4109-9e29-dd48724b0bb3
+
 ## Шаардлагатай зүйлс
 
 1. **Python 3.x**

@@ -26,7 +26,7 @@ try:
     
     # Нэвтрэх мэдээлэл
     username = "B222270077"
-    password = "Temka3459."
+    password = "." #public reposity uchraas bicheegui
     
     # Нэвтрэх талбаруудыг олж бөглөх
     username_field = driver.find_element(By.ID, "username")
